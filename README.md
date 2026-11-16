@@ -137,3 +137,16 @@ Need a dataset we don't list yet, or a full Islamic app built for you? Use the [
 
 ---
 *Keywords: islamic api, quran api, free quran api, hadith api, sahih bukhari api, prayer times api, duas api, azkar api, tafseer api, hijri calendar api, muslim app api, quran json.*
+
+
+---
+
+## Also available at QuraniAPI (quranicapi.online)
+
+The same Quran and Islamic datasets are also documented on **[QuraniAPI](https://quranicapi.online/)**, a developer portal focused on the Quran API:
+
+- [Free Quran API — Quran translation JSON in 9 languages](https://quranicapi.online/api/quran-translations)
+- [Word by Word Quran API](https://quranicapi.online/api/word-by-word-quran)
+- [Tafseer API](https://quranicapi.online/api/tafseer)
+- [Hadith API](https://quranicapi.online/api/hadith)
+- [Quran API documentation](https://quranicapi.online/docs.html)
